@@ -85,9 +85,9 @@ void main() {
  break;
  case 3:search();
  break;
- case 5:delete();
+ case 4:delete();
  break;
- case 6:exit(1);
+ case 5:exit(1);
 
  default:printf("\nOh no! , the choice you have entered is incorrect. Please enter a valid option\n");
 
